@@ -1,11 +1,19 @@
-Temperature Model 
- Simple Python script to calculate temperature at a given time using the formula: Temperature =a time^2+b time +c 
-Features 
-. Hard-coded.values 
-. Keyboard input 
-. Single set file input 
-. Multiple set file input 
+# 🌡️ Temperature Modeling
 
+This project implements a simple Python script to calculate the temperature at a given time using a quadratic formula:
 
-How to run 
-python3 temperature_ model. py 
+\[
+Temperature = a \cdot time^2 + b \cdot time + c
+\]
+
+---
+
+## 🚀 Features
+- ✅ **Hard-coded values**
+- ✅ **Keyboard input**
+- ✅ **Single set file input**
+- ✅ **Multiple set file input**
+
+---
+
+## 📂 Project Structure
