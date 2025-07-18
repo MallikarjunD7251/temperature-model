@@ -1,4 +1,4 @@
-# 🌡️ Temperature Modeling
+# 🌡️ Temperature Model
 
 This project implements a simple Python script to calculate the temperature at a given time using a quadratic formula:
 
