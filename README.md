@@ -15,6 +15,8 @@ Temperature = a * time ^ 2 + b * time + c
 - ✅ **Multiple set file input**
 
 ⚡ How to Run
+
+
 python3 temperature_model.py
 
 
